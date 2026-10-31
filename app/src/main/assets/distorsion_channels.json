@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "app": "Distorsión",
+  "genres": [
+    {
+      "id": "death_metal",
+      "title": "Death Metal",
+      "color": "#E53935",
+      "channels": [
+        { "name": "Cannibal Corpse", "genre": "Death Metal", "channelId": null },
+        { "name": "Death Official", "genre": "Death Metal", "channelId": null },
+        { "name": "Behemoth", "genre": "Death Metal", "channelId": null }
+      ]
+    },
+    {
+      "id": "black_metal",
+      "title": "Black Metal",
+      "color": "#9C27B0",
+      "channels": [
+        { "name": "Darkthrone", "genre": "Black Metal", "channelId": null },
+        { "name": "Mayhem", "genre": "Black Metal", "channelId": null },
+        { "name": "Immortal", "genre": "Black Metal", "channelId": null }
+      ]
+    },
+    {
+      "id": "glam_metal",
+      "title": "Glam Metal",
+      "color": "#EC407A",
+      "channels": [
+        { "name": "Mötley Crüe", "genre": "Glam Metal", "channelId": null },
+        { "name": "Skid Row", "genre": "Glam Metal", "channelId": null }
+      ]
+    },
+    {
+      "id": "hard_rock",
+      "title": "Hard Rock & Heavy Metal",
+      "color": "#FF9800",
+      "channels": [
+        { "name": "Guns N' Roses", "genre": "Hard Rock", "channelId": null },
+        { "name": "AC/DC", "genre": "Hard Rock", "channelId": null },
+        { "name": "Iron Maiden", "genre": "Heavy Metal", "channelId": null }
+      ]
+    }
+  ]
+}
